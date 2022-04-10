@@ -1,5 +1,5 @@
 
 class Config():
-    database_id = 'xxx'
+    task_database_id = 'xxx'
     secret = 'xxx'
     debug = False
